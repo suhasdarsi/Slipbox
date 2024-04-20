@@ -1,5 +1,5 @@
 ---
-title: Setting up static site
+title: Setting up Digital Garden
 draft: false
 tags:
 ---
