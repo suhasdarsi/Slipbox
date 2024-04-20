@@ -6,4 +6,3 @@ I'm the co-founder of [PureML](https://pureml.com/). This is a collection of tho
 I use the Zettlekastian method for my notes, and you might notice that notes are small for the same reason. 
 
 ## Content Index
-[[Permanent Notes]]
